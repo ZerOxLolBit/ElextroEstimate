@@ -1,0 +1,62 @@
+[
+  {
+    "idTag": "business",
+    "titleTag": "startup",
+    "descriptionTag": "innovation",
+    "colorTag": "green"
+  },
+  {
+    "idTag": "technology",
+    "titleTag": "programming",
+    "descriptionTag": "web development",
+    "colorTag": "blue"
+  },
+  {
+    "idTag": "travel",
+    "titleTag": "adventure",
+    "descriptionTag": "exploration",
+    "colorTag": "yellow"
+  },
+  {
+    "idTag": "health",
+    "titleTag": "fitness",
+    "descriptionTag": "wellness",
+    "colorTag": "red"
+  },
+  {
+    "idTag": "food",
+    "titleTag": "cooking",
+    "descriptionTag": "recipes",
+    "colorTag": "orange"
+  },
+  {
+    "idTag": "science",
+    "titleTag": "research",
+    "descriptionTag": "discovery",
+    "colorTag": "purple"
+  },
+  {
+    "idTag": "music",
+    "titleTag": "instrumental",
+    "descriptionTag": "compositions",
+    "colorTag": "brown"
+  },
+  {
+    "idTag": "art",
+    "titleTag": "painting",
+    "descriptionTag": "creativity",
+    "colorTag": "pink"
+  },
+  {
+    "idTag": "sports",
+    "titleTag": "football",
+    "descriptionTag": "soccer",
+    "colorTag": "cyan"
+  },
+  {
+    "idTag": "finance",
+    "titleTag": "investing",
+    "descriptionTag": "financial planning",
+    "colorTag": "grey"
+  }
+]

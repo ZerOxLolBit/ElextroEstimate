@@ -1,0 +1,97 @@
+[ {
+  "idProject" : 1,
+  "idElectroServices" : [ 1, 2, 3 ],
+  "workArea" : 100.0,
+  "time" : 20,
+  "price" : 1500.0
+}, {
+  "idProject" : 2,
+  "idElectroServices" : [ 2 ],
+  "workArea" : 80.0,
+  "time" : 15,
+  "price" : 1200.0
+}, {
+  "idProject" : 3,
+  "idElectroServices" : [ 3 ],
+  "workArea" : 120.0,
+  "time" : 25,
+  "price" : 1800.0
+}, {
+  "idProject" : 4,
+  "idElectroServices" : [ 4 ],
+  "workArea" : 150.0,
+  "time" : 30,
+  "price" : 2000.0
+}, {
+  "idProject" : 5,
+  "idElectroServices" : [ 5 ],
+  "workArea" : 200.0,
+  "time" : 35,
+  "price" : 2500.0
+}, {
+  "idProject" : 6,
+  "idElectroServices" : [ 6 ],
+  "workArea" : 90.0,
+  "time" : 18,
+  "price" : 1300.0
+}, {
+  "idProject" : 7,
+  "idElectroServices" : [ 7 ],
+  "workArea" : 110.0,
+  "time" : 22,
+  "price" : 1600.0
+}, {
+  "idProject" : 8,
+  "idElectroServices" : [ 8 ],
+  "workArea" : 180.0,
+  "time" : 40,
+  "price" : 3000.0
+}, {
+  "idProject" : 9,
+  "idElectroServices" : [ 9 ],
+  "workArea" : 170.0,
+  "time" : 33,
+  "price" : 2200.0
+}, {
+  "idProject" : 10,
+  "idElectroServices" : [ 10 ],
+  "workArea" : 95.0,
+  "time" : 19,
+  "price" : 1350.0
+}, {
+  "idProject" : 11,
+  "idElectroServices" : [ 1, 2, 3, 4, 5, 6 ],
+  "workArea" : 60.0,
+  "time" : 90,
+  "price" : 7000.0
+}, {
+  "idProject" : 12,
+  "idElectroServices" : [ 1, 2 ],
+  "workArea" : 50.0,
+  "time" : 12,
+  "price" : 12.0
+}, {
+  "idProject" : 13,
+  "idElectroServices" : [ 12 ],
+  "workArea" : 1234.0,
+  "time" : 123456,
+  "price" : 32455.0
+}, {
+  "idProject" : 14,
+  "idElectroServices" : [ 1, 2, 7 ],
+  "workArea" : 50.0,
+  "time" : 50,
+  "price" : 700.0
+}, {
+  "idProject" : 15,
+  "idElectroServices" : [ 1 ],
+  "workArea" : 12.0,
+  "time" : 12,
+  "price" : 12.0
+}, {
+  "idProject" : 16,
+  "idElectroServices" : [ 1, 2, 7, 8, 9 ],
+  "workArea" : 60.0,
+  "time" : 500,
+  "price" : 90900.0
+} ]

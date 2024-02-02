@@ -1,0 +1,76 @@
+[ {
+  "idElectroServices" : 1,
+  "serviceName" : "Електричне обладнання в квартирі",
+  "executionTime" : 8,
+  "executionPrice" : 0.0
+}, {
+  "idElectroServices" : 2,
+  "serviceName" : "Встановлення розеток",
+  "executionTime" : 4,
+  "executionPrice" : 0.0
+}, {
+  "idElectroServices" : 3,
+  "serviceName" : "Монтаж світильників",
+  "executionTime" : 6,
+  "executionPrice" : 0.0
+}, {
+  "idElectroServices" : 4,
+  "serviceName" : "Проведення кабелю",
+  "executionTime" : 10,
+  "executionPrice" : 0.0
+}, {
+  "idElectroServices" : 5,
+  "serviceName" : "Ремонт електромережі",
+  "executionTime" : 5,
+  "executionPrice" : 0.0
+}, {
+  "idElectroServices" : 6,
+  "serviceName" : "Установка автоматичних вимикачів",
+  "executionTime" : 5,
+  "executionPrice" : 0.0
+}, {
+  "idElectroServices" : 7,
+  "serviceName" : "Встановлення системи освітлення на подвір'ї",
+  "executionTime" : 8,
+  "executionPrice" : 0.0
+}, {
+  "idElectroServices" : 8,
+  "serviceName" : "Монтаж системи відеоспостереження",
+  "executionTime" : 16,
+  "executionPrice" : 0.0
+}, {
+  "idElectroServices" : 9,
+  "serviceName" : "Підключення електричного опалення",
+  "executionTime" : 14,
+  "executionPrice" : 0.0
+}, {
+  "idElectroServices" : 10,
+  "serviceName" : "Розбирання старої електрики",
+  "executionTime" : 6,
+  "executionPrice" : 0.0
+}, {
+  "idElectroServices" : 11,
+  "serviceName" : "Янезнаю",
+  "executionTime" : 700,
+  "executionPrice" : 0.0
+}, {
+  "idElectroServices" : 13,
+  "serviceName" : "Монтаж",
+  "executionTime" : 100,
+  "executionPrice" : 0.0
+}, {
+  "idElectroServices" : 14,
+  "serviceName" : "іввіап",
+  "executionTime" : 50,
+  "executionPrice" : 0.0
+}, {
+  "idElectroServices" : 15,
+  "serviceName" : "00ayanamirei",
+  "executionTime" : 90,
+  "executionPrice" : 0.0
+}, {
+  "idElectroServices" : 16,
+  "serviceName" : "fddsf",
+  "executionTime" : 34,
+  "executionPrice" : 0.0
+} ]
